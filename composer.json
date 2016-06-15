@@ -16,8 +16,8 @@
   ],
   "support": {
     "email": "support@asgardcms.com",
-    "issues": "https://github.com/AsgardCms/Core/issues",
-    "source": "https://github.com/AsgardCms/Core"
+    "issues": "https://github.com/AsgardCms/Co/issues",
+    "source": "https://github.com/AsgardCms/Co"
   },
   "require": {
     "php": ">=5.5",
