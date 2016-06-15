@@ -1,0 +1,11 @@
+{
+    "require": {
+        "vendor/github": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/naki30/github.git"
+        }
+    ]
+}
