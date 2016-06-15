@@ -1,4 +1,5 @@
 {
+	"name": "Example Composer",
     "require": {
         "vendor/github": "dev-master"
     },
