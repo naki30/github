@@ -2,7 +2,7 @@
     "name": "naki30/github",
     "type": "asgard-module",
     "autoload": {
-        "psr-0" : {
+        "psr-4" : {
             "Modules\\" : "src"
         }
     }
