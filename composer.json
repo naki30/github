@@ -1,23 +1,8 @@
 {
-    "name": "TTSS",
-    "homepage": "http://satis.ttss.ch",
-    "repositories": [
-        { "type": "vcs", "url": "ssh://git@git.mantralabsglobal.com:naval-kishore/composertest.git" },
-        {
-                "type": "package",
-                "package": {
-                        "name": "themeco/x-shortcodes",
-                        "version": "*",
-                        "source": {
-                                "url": "ssh://git@git.mantralabsglobal.com:naval-kishore/composertest.git:/themeco/x-shortcodes/",
-                                "type": "git",
-                                "reference": "origin/master"
-                        },
-                        "autoload": {
-                            "psr-4": { "themeco\\x-shortcodes\\": "themeco/x-shortcodes/" }
-                            }
-                }
+    "name": "weaverryan/derp-dangerzone",
+    "autoload": {
+        "psr-0" : {
+            "Weaverryan\\DangerZone" : "src"
         }
-    ],
-    "require-all": true
+    }
 }
