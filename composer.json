@@ -1,9 +1,9 @@
 {
-    "name": "weaverryan/derp-dangerzone",
+    "name": "naki30/github",
     "type": "asgard-module",
     "autoload": {
         "psr-0" : {
-            "Weaverryan\\DangerZone" : "src"
+            "Modules\\" : "src"
         }
     }
 }
