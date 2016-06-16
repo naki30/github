@@ -1,5 +1,6 @@
 {
     "name": "weaverryan/derp-dangerzone",
+    "type": "asgard-module",
     "autoload": {
         "psr-0" : {
             "Weaverryan\\DangerZone" : "src"
